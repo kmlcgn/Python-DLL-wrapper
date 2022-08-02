@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\kemal.sertkaya\source\repos\Dll1\Dll1\dllmain.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\Users\kemal.sertkaya\source\repos\Dll1\x64\Debug\Dll1.lib and object C:\Users\kemal.sertkaya\source\repos\Dll1\x64\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\kemal.sertkaya\source\repos\Dll1\x64\Debug\Dll1.dll
